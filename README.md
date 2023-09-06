@@ -22,14 +22,14 @@ WebSite Link: https://agri-care-minorproject.netlify.app
 ![image](https://github.com/saloni0110/Agri-Care-WebApp-FrontEnd/assets/75238162/044b3626-af93-41e1-ab5e-65ab1f6e6722)
 
 # News Section
-![image](https://github.com/saloni0110/Agri-Care-WebApp-FrontEnd/assets/75238162/81a5ab56-6f5b-4dec-b299-66f373712216)
+![image](https://github.com/saloni0110/Agri-Care-WebApp-FrontEnd/assets/75238162/7ff73d6b-d8f4-4032-916e-0676ebad12f1)
 
 # Crop Prediction Section
 ![image](https://github.com/saloni0110/Agri-Care-WebApp-FrontEnd/assets/75238162/28010d2f-b2a4-4ad4-bd4b-500099fafcb2)
 ![image](https://github.com/saloni0110/Agri-Care-WebApp-FrontEnd/assets/75238162/fd056563-8edc-4065-8b4f-bcc17316c04e)
 
 # Weather Section
-![image](https://github.com/saloni0110/Agri-Care-WebApp-FrontEnd/assets/75238162/7ff73d6b-d8f4-4032-916e-0676ebad12f1)
+![image](https://github.com/saloni0110/Agri-Care-WebApp-FrontEnd/assets/75238162/81a5ab56-6f5b-4dec-b299-66f373712216)
 ![image](https://github.com/saloni0110/Agri-Care-WebApp-FrontEnd/assets/75238162/0071a65d-bc8f-40f9-8d62-7d6d700bab62)
 
 # Footer Section
